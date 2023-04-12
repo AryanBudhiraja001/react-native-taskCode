@@ -1,0 +1,7 @@
+#Wed Apr 12 15:26:05 IST 2023
+base.1=/Users/rockyuppal/Desktop/pushCode/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/11/classes.dex
+path.1=11/classes.dex
+base.0=/Users/rockyuppal/Desktop/pushCode/android/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex
